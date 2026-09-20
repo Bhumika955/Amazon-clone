@@ -1,0 +1,7 @@
+{
+  "hooks": {
+    "onUserPrompt": "node scripts/capture-turn.js --event=prompt",
+    "onTurnComplete": "node scripts/capture-turn.js --event=response"
+  },
+  "model": "claude-3-7-sonnet"
+}

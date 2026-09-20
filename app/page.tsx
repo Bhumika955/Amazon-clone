@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { Navbar } from '@/components/Navbar';
 import Link from 'next/link';
 
-export const PRODUCTS = [
+ const PRODUCTS = [
   {
     id: '1',
     title: 'Sony WH-1000XM5 Wireless Noise Canceling Headphones, 30h Battery Life with Mic',

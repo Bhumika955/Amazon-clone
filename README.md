@@ -4,6 +4,13 @@ A high-fidelity Amazon storefront frontend rebuild developed with Next.js (App R
 
 ---
 
+## 🌐 Live Deployment & Links
+
+- **Live Demo:** [https://amazon-clone-sooty-iota.vercel.app](https://amazon-clone-sooty-iota.vercel.app)
+- **Repository:** [https://github.com/Bhumika955/Amazon-clone](https://github.com/Bhumika955/Amazon-clone)
+
+---
+
 ## 🚀 Key Features
 
 * **Universal Amazon Navigation & Drawer:** Slide-in categorized "All" off-canvas drawer with backdrop blur, route-aware active indicators, and real-time cart badge counter.
